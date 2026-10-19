@@ -1,0 +1,4 @@
+# Offensive and defensive training—controlled
+Use owner-controlled VMs, loopback, purpose-built vulnerable examples and training platforms with clearly defined permission. Develop mental model: network protocols → OS process model → vulnerability classes → secure coding → telemetry → detection → remediation → validation.
+For each scenario document scope/targets, initial state, hypothesis, lab steps, artifacts (PCAP/log/trace), ATT&CK mapping if justified, defender signals and remediation.
+Prefer safe exploitation demonstrations within intentionally vulnerable local toy targets, and always include defensive mitigation and logs. No uncontrolled scans, credential theft, persistence, stealth delivery or deployment against third-party systems. Requests that cross these boundaries: explain constraint and design authorized-equivalent lab.

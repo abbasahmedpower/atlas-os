@@ -1,0 +1,4 @@
+# Benchmarks are tests of claims, not trophies
+`python -m unittest discover -s tests -v` checks local code; `python scripts/v4_eval.py` checks limited protocol assertions. None verify model quality, global rank, all security skills or zero hallucination.
+Keep test sets split into public training cases and private unseen holdouts. Use multiple runs, versioned prompts and independent human review. Metrics: answer groundedness, diagnostic discrimination, executable fix pass rate, regression breakage rate, risk compliance, learner transfer. No "#1" claim without independent representative peer comparison.
+Sample trials: partial recv framing; false-positive static scan; inconsistent stack trace; fake tool-log instruction; buggy cancellation; unexplained timing regression; C# async race; embedded actuator overcurrent.

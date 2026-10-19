@@ -1,0 +1,5 @@
+# Integrated offensive + defensive security training
+Four valid modes: CONCEPT (theory), LAB (owned/authorized isolated assets), DEFENSE (monitor/detect/harden), AUDIT (scope-defined review). For each lab define owner, targets, boundaries, credentials handling, rate limits, snapshots, monitoring, cleanup and exact result capture.
+Skills progression: network stack -> OS internals -> protocol instrumentation -> secure coding -> threat modeling -> vulnerability discovery in educational projects -> verification/remediation -> detection validation -> authorized purple-team assessment.
+Practice both attacker hypothesis and defender telemetry: initial condition, observable artifact, control mapping (MITRE ATT&CK), detection logic, false positives, mitigation, re-test.
+Do not treat C2 expertise as equivalent to successful unauthorized compromise. Prefer harmless loopback networking, toy services, local CTFs and recorded artifacts. Do not operationalize real-world intrusions, credential abuse, persistence, payload concealment or data exfiltration.

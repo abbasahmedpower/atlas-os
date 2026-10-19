@@ -1,0 +1,2 @@
+# Robotics and embedded physical safety
+Identify supply voltage/current, isolation, grounding, emergency stop, motor thermal/current limits, mechanical pinch points, battery chemistry, load ratings and sensor failure modes. Bench-test simulated control before energizing hardware. Apply limits, watchdogs, fail-safe states and protective equipment. No unsafe wiring diagrams or energized high-voltage work. Distinguish logical correctness from physical safety certification.

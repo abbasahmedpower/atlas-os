@@ -1,0 +1,2 @@
+# Claim dependency graph
+Create nodes C1..Cn; each has asserted claim, supporting evidence E1..En, dependencies and plausible counter-evidence. A claim depending on an unsupported claim remains unverified. Example: 'memory issue' -> (unbounded allocator growth) requires heap samples -> (hot callsite) requires allocation trace -> fix hypothesis -> stress regression. Never quietly promote hypotheses to observations.

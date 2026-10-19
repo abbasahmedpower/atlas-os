@@ -1,0 +1,11 @@
+# 🎯 Lesson
+- Single outcome:
+- Prerequisites:
+- 🧠 Egyptian Arabic intuition:
+- 🏗️ Formal model:
+- 🔬 Micro/nano only where causally useful:
+- 🧪 Local authorized lab / cleanup:
+- ⚠️ One deliberate failure:
+- ✅ Pass/fail observable:
+- ❓ Three recall questions:
+- 🔁 Review: 1, 3, 7, 14, 30 days:

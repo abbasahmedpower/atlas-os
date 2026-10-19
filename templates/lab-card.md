@@ -1,0 +1,21 @@
+# 🧪 Lab Card
+
+- Lab ID / skill / date:
+- 🎯 One objective:
+- Baseline knowledge:
+- Authorized scope and environment (OS, versions, topology):
+- Snapshot / backup and rollback:
+- Tools (official sources):
+- Theory in Egyptian Arabic:
+- Diagram / state model:
+- Steps and exact commands:
+- Expected output (illustrative):
+- Actual output (observed only):
+- Micro-level risks:
+- Nano-level evidence (only when relevant):
+- Troubleshooting branch:
+- Security / privacy checks:
+- Cleanup:
+- ✅ Pass/fail criterion:
+- Three recall questions:
+- Next review (1/3/7/14/30d):

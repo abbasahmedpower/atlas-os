@@ -1,0 +1,2 @@
+# Physical systems safety gates
+Simulate first. Confirm supply voltage, current, stall current, power dissipation, common ground, polarity, isolation and emergency stop. Check mechanical pinch points, thermal rise, motor runaway, sensor failure and fail-safe behavior. Require operator supervision before energizing unknown systems. Distinguish control law stability proofs from an observed short bench test. Don't instruct unsafe live high-voltage or weaponized hardware testing.

@@ -1,0 +1,2 @@
+# Detection engineering loop
+Hypothesis → benign local simulation → endpoint telemetry (process+parent, image, command line) → network metadata → event correlation → detection rule → false-positive exercise → attack variation in authorized environment → tuning → report. Map behavior to MITRE ATT&CK as analytical labels, not as proof of maliciousness. Keep packet captures sanitized. Never declare detection complete from a single indicator or vendor slogan.

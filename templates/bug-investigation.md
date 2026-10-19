@@ -1,0 +1,12 @@
+# Investigation card
+- Symptom / expected vs actual:
+- Reproduction command and environment:
+- Minimal fixture:
+- H1/H2/H3:
+- Discriminating experiments:
+- Observations / traces:
+- Evidence status:
+- Root cause and uncertainty:
+- Minimal fix:
+- Failing-before/passing-after tests:
+- Safety / rollback / residual risks:

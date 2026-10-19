@@ -1,0 +1,2 @@
+# Proof of independent mastery
+For each concept: explain without hints → predict a test output → run a variant → intentionally introduce fault in own example → locate cause → repair → defend design tradeoff → spaced retest at days 1/3/7/14/30. Competency states: unseen, assisted, independently reproduced, independently modified, independently debugged, transferred to new domain. Require artifacts and blind tasks for level upgrades; don't claim mastery from passive reading.

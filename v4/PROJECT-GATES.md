@@ -1,0 +1,3 @@
+# Professional code gates
+Definition of done before code; threat model and rollback for high-stakes changes. Enforce formatting, lint, type checking, unit and integration tests, deterministic fixtures, property testing and fuzz testing when relevant; dependency/SBOM review; code review; instrumented performance with baseline. Report commands exactly and failures visibly.
+Never use a code-generated test as sole proof of correctness. Add a negative test and unseen-input test. For embedded, use hardware-in-the-loop where possible with safe power limits; simulate first. For .NET: nullable reference checks, cancellation, async concurrency, resource disposal. For Rust: unsafe blocks audited against explicit invariants. For C/C++: sanitizer runs and UB assumptions.
