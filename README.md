@@ -34,6 +34,7 @@
 
 - [What Is This, Exactly?](#what-is-this-exactly)
 - [The Problem It Solves](#the-problem-it-solves)
+- [Engineering & Research Domains](#engineering--research-domains)
 - [Quick Start (60 seconds)](#quick-start)
 - [Architecture & Routing](#architecture--routing)
 - [The 7-Step Problem-Solving Contract](#the-7-step-problem-solving-contract)
@@ -84,6 +85,53 @@ AI: "Yes, absolutely."                │  AI: "Observed: exit 0, output matches
 ```
 
 The root cause of most AI-assisted debugging failures is not the model's knowledge — it is the absence of a **falsifiable hypothesis + discriminating experiment** loop. ATLAS OMEGA enforces this loop at every step.
+
+---
+## 🏗️ Engineering & Research Domains
+
+<div align="center">
+
+**Six interconnected disciplines. One evidence-driven engineering framework.**
+
+*From authorized security research to physical systems engineering — connected through reproducible investigation, measurable learning, and responsible practice.*
+
+</div>
+
+| Domain | Focus | Research & Engineering Coverage |
+|:---|:---|:---|
+| **🛡️ 01 · Cybersecurity** | **Offensive & Defensive Security** | Authorized Penetration Testing · Threat Modeling · Security Operations (SOC) · Detection Engineering · Digital Forensics & Incident Response (DFIR) · Malware Analysis · Network Security · Cloud Security · Application Security (AppSec) |
+| **🔬 02 · Reverse Engineering** | **Binary Analysis & Systems Internals** | Assembly · CPU Architecture · Memory Internals · PE/ELF · Disassembly · Control-Flow Graphs (CFG) · Data-Flow Analysis · Dynamic Analysis · Debugging · Symbolic Execution · Binary Internals |
+| **⚙️ 03 · Software Engineering** | **Architecture, Development & Reliability** | C/C++ · Rust · C#/.NET · Python · Kotlin · Algorithms · Software Architecture · Clean Code · Testing · Profiling · Observability · Git · CI/CD · Distributed Systems |
+| **🤖 04 · Mechatronics, Robotics & Embedded** | **Intelligent Physical Systems** | Electronics · Sensors · Actuators · Microcontrollers · Real-Time Operating Systems (RTOS) · Control Theory · Robotics · CAN · UART · SPI · I²C · Safety Engineering |
+| **☁️ 05 · IT, Infrastructure & Cloud** | **Systems, Platforms & Operations** | Linux · Windows Internals · Networking · Virtualization · Containers · Kubernetes · Infrastructure as Code (IaC) · Monitoring · Storage · Reliability Engineering |
+| **🧠 06 · Teaching & Learning Engineering** | **Adaptive, Evidence-Based Technical Education** | Egyptian Arabic Mentorship · Microlearning · Active Recall · Spaced Repetition · Concept Mapping · Progressive Practical Exercises · Competency-Based Assessment · Independent Problem Solving |
+
+### 🔗 How the Disciplines Connect
+
+```mermaid
+flowchart TB
+    A["🧠 ATLAS OMEGA<br/>Engineering & Research Framework"]
+
+    A --> B["🛡️ Cybersecurity<br/>Offensive + Defensive"]
+    A --> C["🔬 Reverse Engineering<br/>Binary + Runtime"]
+    A --> D["⚙️ Software Engineering<br/>Code + Architecture"]
+    A --> E["🤖 Mechatronics<br/>Robotics + Embedded"]
+    A --> F["☁️ IT & Cloud<br/>Infrastructure + Reliability"]
+    A --> G["🎓 Learning Engineering<br/>Adaptive Education"]
+
+    B --> H["🔍 Evidence-Driven Investigation"]
+    C --> H
+    D --> H
+    E --> H
+    F --> H
+    G --> H
+
+    H --> I["Reproduce → Analyze → Test → Verify"]
+```
+
+Cybersecurity builds on operating systems, networking, and secure software. Reverse engineering connects machine code and runtime behavior. Mechatronics brings software into sensors, actuators, and physical control loops. Learning engineering reinforces understanding, retention, and independent problem-solving across all six domains.
+
+> **Core principle:** Understand the system. Investigate its behavior. Validate the evidence. Engineer a reproducible solution.
 
 ---
 
